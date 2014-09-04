@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
     NSLog(@"helloc");
+        NSLog(@"helloc");
+
     
 	// Do any additional setup after loading the view, typically from a nib.
 }
